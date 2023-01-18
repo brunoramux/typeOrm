@@ -1,0 +1,7 @@
+npm install typescript nodemon ts-node @types/express @types/node
+
+npm isntall express pg typeorm dotenv reflect-metadata
+
+npx tsc --init
+
+npm run env
